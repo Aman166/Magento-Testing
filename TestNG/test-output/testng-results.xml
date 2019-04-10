@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-10T16:16:01Z" name="Default suite" finished-at="2019-04-10T16:17:00Z" duration-ms="59564">
+    <groups>
+    </groups>
+    <test started-at="2019-04-10T16:16:01Z" name="Default test" finished-at="2019-04-10T16:17:00Z" duration-ms="59564">
+      <class name="com.abc.magento.Demo">
+        <test-method signature="method1()[pri:0, instance:com.abc.magento.Demo@385e9564]" started-at="2019-04-10T16:16:01Z" name="method1" finished-at="2019-04-10T16:17:00Z" duration-ms="59535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- com.abc.magento.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
